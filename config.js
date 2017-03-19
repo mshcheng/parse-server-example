@@ -1,5 +1,5 @@
 module.exports = {
-  server: {},
+  server: { clientKey: '123456' },
   dashboard: {},
   storage: {},
   push: {}
